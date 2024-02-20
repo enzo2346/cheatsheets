@@ -1,0 +1,40 @@
+{
+    "name": "python-dev-container",
+    "image":"mcr.microsoft.com/devcontainers/universal:2",
+    "hostRequirements": {
+        "cpus": 4
+    },
+    "waitFor": "onCreateCommand",
+    "updateContentCommand": "pip install -r requirements.txt",
+    "postCreateCommand": "",
+    "postAttachCommand": {
+        "server": "python3 website_page/app.py"
+    },
+    "portsAttributes": {
+        "5000": {
+            "label": "Application",
+            "onAutoForward": "openPreview"
+        }
+    },
+    "customizations": {
+        "codespaces": {
+            "openFiles": [
+                "website_page/app.py"
+            ]
+        },
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-python.pylint",
+                "ms-python.black-formatter",
+                "GitHub.copilot"
+            ],
+            "settings": {
+                "editor.defaultFormatter": "ms-python.black-formatter",
+                "editor.formatOnSave": true,
+                "files.autoSave": "onWindowChange"
+            }
+        }
+    },
+  "forwardPorts": [5000]
+}
