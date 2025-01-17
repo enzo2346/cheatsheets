@@ -1,5 +1,7 @@
 ## Summary
 
+**-> [Back to Index](./README.md)**
+
 * [Install](#install)
 * [Commands](#commands)
 

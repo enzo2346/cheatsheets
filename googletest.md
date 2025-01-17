@@ -2,6 +2,8 @@ This documentation provides step-by-step instructions on how to use GoogleTest w
 
 ## Summary
 
+**-> [Back to Index](./README.md)**
+
 * [Prerequisites](#prerequisites)
 * [Setting up GoogleTest with Conan](#setting-up-googletest-with-conan)
 * [Using GoogleTest with Ctest](#using-googletest-with-ctest)

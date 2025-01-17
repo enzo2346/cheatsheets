@@ -1,5 +1,7 @@
 ## Summary
 
+**-> [Back to Index](./README.md)**
+
 * [Find in files with Notepad++](#find-in-files-with-notepad)
 
 ## Find in files with Notepad++

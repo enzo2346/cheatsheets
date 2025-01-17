@@ -1,5 +1,7 @@
 ## Summary
 
+**-> [Back to Index](./README.md)**
+
 * [Pipeline structure](#pipeline-structure)
 * [Credentials Management](#credentials-management)
 

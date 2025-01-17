@@ -1,3 +1,6 @@
+
+**-> [Back to Index](./README.md)**
+
 Principes:
 * Découper les tâches un maximum
 * Jamais de multitâche

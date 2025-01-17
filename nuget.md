@@ -1,5 +1,7 @@
 ## Summary
 
+**-> [Back to Index](./README.md)**
+
 * [NuGet in Visual Studio](#nuget-in-visual-studio)
 * [NuGet CLI](#nuget-cli)
 * [Useful links](#useful-links)

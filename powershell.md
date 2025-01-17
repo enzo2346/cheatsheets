@@ -1,4 +1,7 @@
 Summary
+
+**-> [Back to Index](./README.md)**
+
 -------------------
 
 PowerShell is a scripting language and command-line interface (CLI) built on [Microsoft](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.3)’s .NET Framework to automate administrative tasks and manage system configurations, analogous to [Bash](https://www.stationx.net/bash-cheat-sheet/) scripting in Linux. For all the geeks out there, PowerShell is an **object-oriented programming (OOP)** language.

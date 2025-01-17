@@ -1,5 +1,7 @@
 ## Summary
 
+**-> [Back to Index](./README.md)**
+
 * [Website](#website)
 * [Run it locally on Docker](#run-it-locally-on-docker)
 

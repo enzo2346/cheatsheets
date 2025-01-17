@@ -1,5 +1,7 @@
 ## Summary
 
+**-> [Back to Index](./README.md)**
+
 * [Basic shortcuts](#basic-shortcuts)
 
 ## Basic shortcuts

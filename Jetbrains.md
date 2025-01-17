@@ -1,5 +1,7 @@
 ## Summary
 
+**-> [Back to Index](./README.md)**
+
 * [Keyboard Shortcuts](#keyboard-shortcuts)
 * [Interactive Rebase](#interactive-rebase)
 * [Command-line Interface](#command-line-interface)

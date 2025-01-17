@@ -1,5 +1,7 @@
 ## Summary
 
+**-> [Back to Index](./README.md)**
+
 - [Meta](#meta)
 - [Basics](#basics)
 - [Everyday use](#everyday-use)

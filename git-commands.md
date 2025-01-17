@@ -1,5 +1,7 @@
 ## Summary
 
+**-> [Back to Index](./README.md)**
+
 * [Initial Setup](#initial-setup)
 * [Basics](#basics)
 * [Branches](#branches)

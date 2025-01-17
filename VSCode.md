@@ -1,5 +1,7 @@
 ## Summary
 
+**-> [Back to Index](./README.md)**
+
 * [Learning ressources](#learning-ressources)
 * [Settings management](#settings-management)
 * [Custom Zenmode](#custom-zenmode)

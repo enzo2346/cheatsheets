@@ -1,5 +1,7 @@
 ## Summary
 
+**-> [Back to Index](./README.md)**
+
 * [Introduction](#introduction)
 * [How it works](#how-it-works)
 * [Pull requests](#pull-requests)

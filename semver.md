@@ -1,5 +1,7 @@
 ## Summary
 
+**-> [Back to Index](./README.md)**
+
 * [Incrementing Version Numbers](#incrementing-version-numbers)
 * [Pre-release and Build Metadata](#pre-release-and-build-metadata)
 * [Version Comparison](#version-comparison)
